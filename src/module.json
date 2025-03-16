@@ -1,0 +1,34 @@
+{
+    "id": "critical-options",
+    "title": "Critical Options",
+    "description": "This module provides a collection of options on how critical damage is calculated.",
+    "authors": [
+        {
+            "name": "regateiro",
+            "email": "diogo.regateiro@gmail.com",
+            "url": "https://github.com/Regateiro"
+        }
+    ],
+    "url": "https://github.com/Regateiro/CriticalOptions/tree/master",
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "12.331",
+        "verified": "12"
+    },
+    "esmodules": [
+        "./critical-options.js"
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "compatibility": {
+                    "minimum": "4.3.5",
+                    "verified": "4.3.5"
+                }
+            }
+        ]
+    },
+    "manifest": "https://github.com/Regateiro/CriticalOptions/releases/latest/download/module.json",
+    "download": "https://github.com/Regateiro/CriticalOptions/releases/latest/download/module.zip"
+}
