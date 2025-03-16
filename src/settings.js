@@ -9,7 +9,7 @@ class Settings {
      * This should only be called once, at initialization.
      */
     init() {
-        game.settings.register("critical-options", "powerfulCriticals", {
+        game.settings.register("critical-options", "powerfulCriticalsEnabled", {
             name: "Enable Powerful Criticals",
             hint: "Maximize critical die.",
             scope: "world",
