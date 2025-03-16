@@ -10,7 +10,7 @@
         }
     ],
     "url": "https://github.com/Regateiro/CriticalOptions/tree/master",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "compatibility": {
         "minimum": "12.331",
         "verified": "12"
@@ -29,6 +29,6 @@
             }
         ]
     },
-    "manifest": "https://github.com/Regateiro/CriticalOptions/releases/download/v0.0.1/module.json",
-    "download": "https://github.com/Regateiro/CriticalOptions/releases/download/v0.0.1/module.zip"
+    "manifest": "https://github.com/Regateiro/CriticalOptions/releases/download/v1.0.0/module.json",
+    "download": "https://github.com/Regateiro/CriticalOptions/releases/download/v1.0.0/module.zip"
 }
