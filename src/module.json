@@ -29,6 +29,6 @@
             }
         ]
     },
-    "manifest": "https://github.com/Regateiro/CriticalOptions/releases/latest/download/module.json",
-    "download": "https://github.com/Regateiro/CriticalOptions/releases/latest/download/module.zip"
+    "manifest": "https://github.com/Regateiro/CriticalOptions/releases/download/v0.0.1/module.json",
+    "download": "https://github.com/Regateiro/CriticalOptions/releases/download/v0.0.1/module.zip"
 }
